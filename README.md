@@ -200,11 +200,11 @@ adapter_accuracy_curve.png
 If you use this code in your research, please cite our work:
 
 ```bibtex
-@article{your_citation_key,
-  title   = {Your Paper Title},
-  author  = {Your Author List},
-  journal = {Your Journal or Conference},
-  year    = {2026}
+@article{,
+  title   = {},
+  author  = {},
+  journal = {},
+  year    = {}
 }
 ```
 
